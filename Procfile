@@ -1,1 +1,1 @@
-web: gunicorn tutorial.wsgi
+web: gunicorn tic-tac-toe.asgi
